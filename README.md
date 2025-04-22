@@ -107,6 +107,7 @@ idea of getting a good coffee and having a stroll around a market on a Saturday 
 many others in my opinion.
 
 Rules
+
 Don’t overcomplicate it.
 ●​ All are welcome, except those looking to sell illegal goods or cause trouble.
 ●​ No politics. By this I mean no flag flying or political protests.
@@ -116,18 +117,21 @@ they come to an agreement with a consumer on fiat rails. The point is that if a 
 to pay for something in Bitcoin, they should be able to do so.
 
 Consistency
+
 This is crucial, pick a day and a consistent time, whether it is once a fortnight or once a quarter,
 or anywhere in between. Stick to it. This will breed loyalty amongst your patrons. They have to
 know the market will be there on a regular basis, whatever that basis may be. Before you know
 it you will have a following.
 
 Marketing
+
 Start a Twitter, Nostr, and Instagram account for the event. Get a designer, make it look fun. Do
 not underestimate the power of social media. Start advertising at least 5 days in advance of
 each market. Build a following. We will help you in this regard provided you are a good faith
 actor.
 
 Conclusion
+
 I do not recommend doing this if you think it is something you can make money off of. One could
 certainly charge vendors to cover the cost of the event, which is great for long term
 sustainability. I recommend doing this if you believe in Bitcoin. I have found it to be one of the
