@@ -2,6 +2,10 @@ A Bitcoin Farmers Market
 
 By TripleJaku
 
+All my thanks to my co-founders Kiki (@bitcoinbabey) and Charlie (@thenaturalinve1)
+
+Abstract
+
 A simple place for local producers and consumers to connect and transact using Bitcoin.
 Farmers Markets based on Bitcoin are in complete alignment with the true values of freedom
 tech and transparent food supply chains, in this writer's opinion. Part one will explain the history
